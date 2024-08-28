@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Library-Management-System",
+			"path": "../Library-Management-System"
+		}
+	],
+	"settings": {
+		"python.analysis.extraPaths": [
+			"./src"
+		]
+	}
+}
